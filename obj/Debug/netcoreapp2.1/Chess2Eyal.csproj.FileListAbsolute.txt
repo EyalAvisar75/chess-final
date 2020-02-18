@@ -1,0 +1,11 @@
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.csprojAssemblyReference.cache
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.csproj.CoreCompileInputs.cache
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.AssemblyInfoInputs.cache
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.AssemblyInfo.cs
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\bin\Debug\netcoreapp2.1\Chess2Eyal.deps.json
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\bin\Debug\netcoreapp2.1\Chess2Eyal.runtimeconfig.json
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\bin\Debug\netcoreapp2.1\Chess2Eyal.runtimeconfig.dev.json
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\bin\Debug\netcoreapp2.1\Chess2Eyal.dll
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\bin\Debug\netcoreapp2.1\Chess2Eyal.pdb
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.dll
+C:\Users\HACKERU\source\repos\Chess2Eyal\Chess2Eyal\obj\Debug\netcoreapp2.1\Chess2Eyal.pdb
